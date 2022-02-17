@@ -7,6 +7,7 @@ import UseReducerTuto from "./UseReducerTuto";
 import UseRefTuto from "./UseRefTuto";
 import UseStateTuto from "./UseStateTuto";
 import UseMemoTuto from './UseMemoTuto'
+import UseCallBackTuto from "./UseCallBackTuto";
 
 const App = () => {
     return <div> 
@@ -18,7 +19,8 @@ const App = () => {
         {/* <UseEffectLayoutTuto/> */}
         {/* <ImperativeHandle/> */}
         {/* <ContextTuto/> */}
-        <UseMemoTuto/>
+        {/* <UseMemoTuto/> */}
+        <UseCallBackTuto/>
          </div>;
 };
 
